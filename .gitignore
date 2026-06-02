@@ -1,0 +1,10 @@
+# IDE Settings for Shop Sales System
+
+*.pyc
+__pycache__/
+*.egg-info/
+.streamlit/
+*.db
+.DS_Store
+.vscode/
+.idea/
