@@ -38,7 +38,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Sidebar navigation
-st.sidebar.title("🏪 Shop System")
+st.sidebar.title("🏪 Omoga B Shop System")
 page = st.sidebar.radio(
     "Navigate",
     ["📊 Dashboard", "💳 Add Sale", "📦 Manage Stock", "📋 Reports"]
